@@ -23,3 +23,6 @@ Logistic Regression K-Nearest Neighbor Algorithm Decision Tree Max Voting Classi
 The final model XGBoost has AUROC 92 % and Accuracy 87 %.
 
 F1 score calculated 
+
+
+Demo link - https://drive.google.com/file/d/1jXYnp8z3Mg5LQFni-h2r9DxeHQvO7-m4/view?usp=sharing
